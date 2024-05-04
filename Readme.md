@@ -1,16 +1,9 @@
-Pratik Amol Halurkar
+# Energy efficient car using multi linear regression
 
-Module 2 assignment
-
-ALY6020: Predictive Analytics (CRN: 20356)
-
-Prof. Justin Grosz
-
-3/3/2024
 
 # Introduction
 
-The main goal of the assignment for the second week is to develop a
+The main goal of the project is to develop a
 reliable predictive model for a prominent car manufacturer known for
 producing large vehicles. The objective is to identify the essential
 features that have a substantial impact on achieving improved gas
@@ -23,7 +16,7 @@ analytical framework, we aim to reveal the intricate connections between
 different attributes and fuel efficiency, thereby facilitating informed
 decision-making and strategic progress in the automotive industry.
 
-Data Cleaning & Preprocessing
+# Data Cleaning & Preprocessing
 
 The car dataset was imported into Python using the Pandas library. It
 comprises 8 columns and 398 entries.
